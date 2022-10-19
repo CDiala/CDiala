@@ -1,4 +1,4 @@
-# Hi there 👋 it's Chibuzo, your go-to programmer 😉 
+# Hi there 👋 I'm Chibuzo, your go-to programmer 👨‍💻 
 
 - 🌱 I’m currently improving my JavaScript and Python skills by buiding projects and solving coding challenges.
 - 👯 I’m looking to collaborate on open source projects, or any interesting project.
@@ -18,14 +18,12 @@
 
 
 
-
- HTML5  CSS3   JavaScript  Bootstrapb   Sass  React  Ruby 
-
-Tools. 🛠
+## Tools 🛠
 ![image](https://user-images.githubusercontent.com/59217643/196753121-4714d153-e66a-4d08-8dce-fecb238ffd45.png)
 ![image](https://user-images.githubusercontent.com/59217643/196753145-1444a114-6e60-4a57-a8e1-12c5cd8522c6.png)
-![image](http![Uploading Screenshot 2022-10-19 at 17.47.33.png…]()
-s://user-images.githubusercontent.com/59217643/196753204-ed965c6a-f240-4944-86c8-5eb5d8b2c965.png)
+![image](https://user-images.githubusercontent.com/59217643/196759648-9a16e081-e636-444f-89cb-7ef1ed5f6458.png)
+
+
 
 
 <!--
