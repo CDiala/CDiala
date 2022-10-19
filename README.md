@@ -24,6 +24,8 @@
 ![image](https://user-images.githubusercontent.com/59217643/196759648-9a16e081-e636-444f-89cb-7ef1ed5f6458.png)
 
 
+## Year-to-date Contribution 
+<img width="1792" alt="Screenshot 2022-10-19 at 18 29 16" src="https://user-images.githubusercontent.com/59217643/196763395-da1f091b-941a-414b-b890-4fab55a5f5ca.png">
 
 
 <!--
