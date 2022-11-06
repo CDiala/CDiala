@@ -24,9 +24,18 @@
 ![image](https://user-images.githubusercontent.com/59217643/196759648-9a16e081-e636-444f-89cb-7ef1ed5f6458.png)
 
 
-## Year-to-date Contribution 
+<!-- ## Year-to-date Contribution 
 <img width="1792" alt="Screenshot 2022-10-19 at 18 29 16" src="https://user-images.githubusercontent.com/59217643/196763395-da1f091b-941a-414b-b890-4fab55a5f5ca.png">
-
+ -->
+<h3 align="left">GitHub Statistics</h3>
+<p align="center">
+   <a href="https://github.com/CDiala">
+     <img src="https://github-readme-stats.vercel.app/api?username=CDiala&show_icons=true&locale=en" alt="CDiala" /><br><br>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDiala&show_icons=true&theme=midnight-white&layout=compact" alt="CDiala" />
+     <br><br>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CDiala&theme=radical" alt="CDiala" />
+   </a>
+</p>
 
 <!--
 **CDiala/CDiala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
