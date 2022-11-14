@@ -5,7 +5,7 @@
 
 ## About Me
 - 💻 Full Stack Developer ♦️ MEAN ♦️ MERN ♦️ Flask ♦️ AWS
-- 👨‍🎓 ALX-T Udacity student (Full Stack Nano Degree)
+- 👨‍🎓 ALX-T Udacity graduate (Full Stack Nanodegree)
 - 👨‍💻 I Love collaborating with peer programmers
 
 ## Languages
