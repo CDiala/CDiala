@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Chibuzo, your go-to programmer 👨‍💻 
 
-- 🌱 I’m currently improving my JavaScript and Python skills by buiding projects and solving coding challenges.
+- 👨‍💻 I'm addicted to Angular framework a whole lot, then comes React ☯️.
+- 🌱 I’m currently improving my JavaScript, TypeScript and Python skills by buiding projects and solving coding challenges.
 - 👯 I’m looking to collaborate on open source projects, or any interesting project.
 
 ## About Me
