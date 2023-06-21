@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Chibuzo, your go-to programmer 👨‍💻 
 
-- 👨‍💻 I'm addicted to Angular framework a whole lot, then comes React ☯️.
+- 👨‍💻 I'm addicted to Angular framework a whole lot, and then React ☯️.
 - 🌱 I’m currently improving my JavaScript, TypeScript and Python skills by buiding projects and solving coding challenges.
 - 👯 I’m looking to collaborate on open source projects, or any interesting project.
 
@@ -10,16 +10,18 @@
 - 👨‍💻 I Love collaborating with peer programmers
 
 ## Languages
-![image](https://user-images.githubusercontent.com/59217643/196751617-0d6e87bc-78a4-4f69-8672-bf3fb160d886.png) 
-![image](https://user-images.githubusercontent.com/59217643/196751710-e5c6df68-606c-4e0a-835f-7cf2642aff30.png)
-![image](https://user-images.githubusercontent.com/59217643/196751772-bdd44ac8-3dbb-4cf9-9f9e-f9788b5a8171.png)
-![image](https://user-images.githubusercontent.com/59217643/196751814-99d05674-0d5d-462b-a1cd-e5840b8edba1.png)
-![image](https://user-images.githubusercontent.com/59217643/196751831-59d74434-4403-4d7c-a8ea-b4e4cfd731c1.png)
+![html5_sm](https://github.com/CDiala/CDiala/assets/59217643/232739a3-c5e9-42ad-bf7f-e1ca2e60275e)
+![css 3_sm](https://github.com/CDiala/CDiala/assets/59217643/98196318-ea30-4db9-a61d-4f9c656ceec6) 
+![js_sm](https://github.com/CDiala/CDiala/assets/59217643/8126bdcd-61a1-47a5-b7bc-d8c4d6f6835d) 
 ![196752193-0e089643-6247-49d6-b7a3-594cf4f439ce](https://user-images.githubusercontent.com/59217643/196752762-dab0e7db-a07b-49b4-811b-a5ee981d25ab.png)
 
 
 
 ## Tools 🛠
+![angular_sm](https://github.com/CDiala/CDiala/assets/59217643/c2669ee2-591f-45f6-b545-fe74b3bc320f) 
+![ngrx_sm](https://github.com/CDiala/CDiala/assets/59217643/208ee87a-d38f-4cfb-82fe-1168fdb64a76)
+![rxjs_edit](https://github.com/CDiala/CDiala/assets/59217643/774d1b8d-4af8-4d7d-a9fe-efa15fb75c2c)
+![image](https://user-images.githubusercontent.com/59217643/196751831-59d74434-4403-4d7c-a8ea-b4e4cfd731c1.png)
 ![image](https://user-images.githubusercontent.com/59217643/196753121-4714d153-e66a-4d08-8dce-fecb238ffd45.png)
 ![image](https://user-images.githubusercontent.com/59217643/196753145-1444a114-6e60-4a57-a8e1-12c5cd8522c6.png)
 ![image](https://user-images.githubusercontent.com/59217643/196759648-9a16e081-e636-444f-89cb-7ef1ed5f6458.png)
