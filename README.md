@@ -14,17 +14,22 @@
 ![css 3_sm](https://github.com/CDiala/CDiala/assets/59217643/98196318-ea30-4db9-a61d-4f9c656ceec6) 
 ![js_sm](https://github.com/CDiala/CDiala/assets/59217643/8126bdcd-61a1-47a5-b7bc-d8c4d6f6835d) 
 ![196752193-0e089643-6247-49d6-b7a3-594cf4f439ce](https://user-images.githubusercontent.com/59217643/196752762-dab0e7db-a07b-49b4-811b-a5ee981d25ab.png)
+![bootstrap_sm](https://github.com/CDiala/CDiala/assets/59217643/df14cd73-e642-4ba0-a3ac-11a1a3f38f41)
+![material_sm](https://github.com/CDiala/CDiala/assets/59217643/1c3ca3d9-d5da-44e6-941c-dd8a54b2eea0)
+![transcript_sm](https://github.com/CDiala/CDiala/assets/59217643/21bec1fb-38b0-4a8e-956e-3cfad13586fa)
+
+
 
 
 
 ## Tools 🛠
 ![angular_sm](https://github.com/CDiala/CDiala/assets/59217643/c2669ee2-591f-45f6-b545-fe74b3bc320f) 
 ![ngrx_sm](https://github.com/CDiala/CDiala/assets/59217643/208ee87a-d38f-4cfb-82fe-1168fdb64a76)
-![rxjs_edit](https://github.com/CDiala/CDiala/assets/59217643/774d1b8d-4af8-4d7d-a9fe-efa15fb75c2c)
+![png-transparent-rxjs-hd-logo_sm](https://github.com/CDiala/CDiala/assets/59217643/bf7acd82-b49e-4660-a3b0-3e6902cef1e4)
 ![image](https://user-images.githubusercontent.com/59217643/196751831-59d74434-4403-4d7c-a8ea-b4e4cfd731c1.png)
 ![image](https://user-images.githubusercontent.com/59217643/196753121-4714d153-e66a-4d08-8dce-fecb238ffd45.png)
 ![image](https://user-images.githubusercontent.com/59217643/196753145-1444a114-6e60-4a57-a8e1-12c5cd8522c6.png)
-![image](https://user-images.githubusercontent.com/59217643/196759648-9a16e081-e636-444f-89cb-7ef1ed5f6458.png)
+![Github-Logo-PNG_sm](https://github.com/CDiala/CDiala/assets/59217643/d004e27d-3b4c-437b-b6cf-a810607d75ab)
 
 
 <!-- ## Year-to-date Contribution 
